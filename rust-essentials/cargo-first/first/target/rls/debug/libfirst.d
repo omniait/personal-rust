@@ -1,0 +1,1 @@
+c:\Users\Oscar\Desktop\rust-lang\rust-essentials\cargo-first\first\target\rls\debug\libfirst.rmeta: C:\Users\Oscar\Desktop\rust-lang\rust-essentials\cargo-first\first\src\lib.rs C:\Users\Oscar\Desktop\rust-lang\rust-essentials\cargo-first\first\src\main.rs

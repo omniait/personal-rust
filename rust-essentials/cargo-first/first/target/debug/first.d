@@ -1,0 +1,1 @@
+C:\Users\Oscar\Desktop\rust-lang\rust-essentials\cargo-first\first\target\debug\first.exe: C:\Users\Oscar\Desktop\rust-lang\rust-essentials\cargo-first\first\src\main.rs C:\Users\Oscar\Desktop\rust-lang\rust-essentials\cargo-first\first\src\lib.rs
